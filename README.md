@@ -3,6 +3,8 @@
 
 Untuk link UI ada di [Figma Simastok](https://www.figma.com/design/QLM4zXQv4W1nJjykwuDN4C/SiMaStock?node-id=104-779&node-type=frame&t=Y0zBupXUdTZ8hDaj-0)
 
+# INSTALL DEPENDENCIES YANG DIPERLUKAN DENGAN PERINTAH npm install pada folder proyek
+
 ### Bahasa yang digunakan
 1. PHP
 2. JavaScript
